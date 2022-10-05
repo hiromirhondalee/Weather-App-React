@@ -1,0 +1,10 @@
+.Search .search-engine-container {
+  display: block;
+  max-width: 600px;
+  margin: 0px auto;
+  margin-top: 20px;
+}
+
+.Search .search-form {
+  max-width: 600px;
+}
